@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LabNumber2RoomCalculator/1.0.0": {
+        "runtime": {
+          "LabNumber2RoomCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabNumber2RoomCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

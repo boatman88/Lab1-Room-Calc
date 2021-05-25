@@ -1,0 +1,13 @@
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\bin\Debug\netcoreapp3.1\LabNumber2RoomCalculator.exe
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\bin\Debug\netcoreapp3.1\LabNumber2RoomCalculator.deps.json
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\bin\Debug\netcoreapp3.1\LabNumber2RoomCalculator.runtimeconfig.json
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\bin\Debug\netcoreapp3.1\LabNumber2RoomCalculator.runtimeconfig.dev.json
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\bin\Debug\netcoreapp3.1\LabNumber2RoomCalculator.dll
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\bin\Debug\netcoreapp3.1\LabNumber2RoomCalculator.pdb
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\obj\Debug\netcoreapp3.1\LabNumber2RoomCalculator.csprojAssemblyReference.cache
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\obj\Debug\netcoreapp3.1\LabNumber2RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\obj\Debug\netcoreapp3.1\LabNumber2RoomCalculator.AssemblyInfo.cs
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\obj\Debug\netcoreapp3.1\LabNumber2RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\obj\Debug\netcoreapp3.1\LabNumber2RoomCalculator.dll
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\obj\Debug\netcoreapp3.1\LabNumber2RoomCalculator.pdb
+C:\Users\Munce\source\repos\LabNumber2RoomCalculator\LabNumber2RoomCalculator\obj\Debug\netcoreapp3.1\LabNumber2RoomCalculator.genruntimeconfig.cache
